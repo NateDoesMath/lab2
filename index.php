@@ -260,7 +260,7 @@
 
 	<h3><span id="markImg8"></span>What is the least populated state in the US</h3>
 	<input type="checkbox" id="Wyoming"> <label for="Wyoming">Wyoming </label>
-	<input type="checkbox" id="V"> <label for="Vermont">Vermont </label>
+	<input type="checkbox" id="Vermont"> <label for="Vermont">Vermont </label>
 	<input type="checkbox" id="Maine"> <label for="Maine">Maine </label>
 	<input type="checkbox" id="Delaware"> <label for="Delaware">Delaware </label>
 	<br><br>

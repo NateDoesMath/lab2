@@ -258,7 +258,7 @@
 	<div id="q7Feedback"></div>
 	<br>
 
-	<h3><span id="markImg8"></span>What is the least populated state in the US</h3>
+	<h3><span id="markImg8"></span>What are the 2 least populated states in the US</h3>
 	<input type="checkbox" id="Wyoming"> <label for="Wyoming">Wyoming </label>
 	<input type="checkbox" id="Vermont"> <label for="Vermont">Vermont </label>
 	<input type="checkbox" id="Maine"> <label for="Maine">Maine </label>
